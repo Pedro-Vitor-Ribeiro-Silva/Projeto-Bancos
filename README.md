@@ -21,7 +21,7 @@ Este projeto é um sistema simples de gerenciamento de contas bancárias, permit
 
 ## 📂 Estrutura do Projeto
 
-```
+```-
 📂 projeto
 │-- models.py       # Definição dos modelos e do banco de dados
 │-- view.py         # Funções de manipulação das contas e movimentações
