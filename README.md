@@ -33,7 +33,7 @@ Este projeto é um sistema simples de gerenciamento de contas bancárias, permit
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/Projeto-Bancos.git
    cd seu-repositorio
    ```
 2. **Crie um ambiente virtual e instale as dependências:**
