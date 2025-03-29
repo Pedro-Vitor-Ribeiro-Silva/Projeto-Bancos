@@ -15,7 +15,6 @@ Este projeto é um sistema simples de gerenciamento de contas bancárias, permit
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python** (linguagem principal)
-- **Flask** (framework para aplicações web)
 - **SQLModel** (ORM para manipulação do banco de dados SQLite)
 - **Matplotlib** (para geração de gráficos)
 
@@ -33,7 +32,7 @@ Este projeto é um sistema simples de gerenciamento de contas bancárias, permit
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/Projeto-Bancos.git
+   git clone https://github.com/Pedro-Vitor-Ribeiro-Silva/Projeto-Bancos.git
    cd seu-repositorio
    ```
 2. **Crie um ambiente virtual e instale as dependências:**
